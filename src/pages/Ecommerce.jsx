@@ -310,7 +310,7 @@ const Ecommerce = () => {
             />
             <div className="mt-8">
               <p className="font-semibold text-lg">A frontEnd Dev is coming soon!</p>
-              <p className="text-gray-400 ">By Dikshant</p>
+              <p className="text-gray-400 ">By Kunal</p>
               
               <div className="mt-3">
                 <Button
